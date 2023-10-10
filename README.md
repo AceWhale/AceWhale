@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Nikita</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Somebody lite man... And love sleep</h3>
 
 <!--
 **AceWhale/AceWhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
