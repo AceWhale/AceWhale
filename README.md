@@ -1,6 +1,6 @@
 <h1 align="center">ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">🅽🅸🅺🅸🆃🅰</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">(https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%F0%9D%95%8A%F0%9D%95%A0%F0%9D%95%9E%F0%9D%95%96%F0%9D%95%93%F0%9D%95%A0%F0%9D%95%95%F0%9D%95%AA+%F0%9D%95%9D%F0%9D%95%9A%F0%9D%95%A5%F0%9D%95%96+%F0%9D%95%9E%F0%9D%95%92%F0%9D%95%9F...+%F0%9D%94%B8%F0%9D%95%9F%F0%9D%95%95+%F0%9D%95%9D%F0%9D%95%A0%F0%9D%95%A7%F0%9D%95%96+%F0%9D%95%A4%F0%9D%95%9D%F0%9D%95%96%F0%9D%95%96%F0%9D%95%A1" alt="Typing SVG" /></a>
 
 <!--
 **AceWhale/AceWhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
