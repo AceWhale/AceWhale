@@ -1,6 +1,6 @@
 <h1 align="center">ʜɪ ᴛʜᴇʀᴇ, ɪ'ᴍ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">🅽🅸🅺🅸🆃🅰</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕊𝕠𝕞𝕖𝕓𝕠𝕕𝕪+𝕝𝕚𝕥𝕖+𝕞𝕒𝕟...+𝔸𝕟𝕕+𝕝𝕠𝕧𝕖+𝕤𝕝𝕖𝕖𝕡)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕊𝕠𝕞𝕖𝕓𝕠𝕕𝕪+𝕝𝕚𝕥𝕖+𝕞𝕒𝕟...+𝔸𝕟𝕕+𝕝𝕠𝕧𝕖+𝕤𝕝𝕖𝕖𝕡)](https://git.io/typing-svg)
 
 <!--
 **AceWhale/AceWhale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
